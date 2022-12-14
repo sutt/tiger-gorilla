@@ -1,11 +1,21 @@
 #Today:
 
     - git review
+            
+            git status   nb was in red
+        1.) git add
+            git status   nb was in green
+        2.) git commit -m "message"
+            git status   nb is neither green nor red
+        3.) git push 
+
     - __repr__ on requests
     - rest client
     - dataclasses
-    - datetimes
-    - git PR
+    - datetimes  (1st look)
+    - git PR     (1st look)
+    -
+    
 
 
 Why git?
