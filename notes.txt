@@ -1,0 +1,73 @@
+#Today:
+
+    - git review
+    - __repr__ on requests
+    - rest client
+    - dataclasses
+    - datetimes
+    - git PR
+
+
+Why git?
+
+    - Version Control System
+
+    - Collaborator with other programmers:
+
+        - using other people's code, open soure software
+
+        - in your teams, hobby projects, to work projects
+
+            - "live coding" code merging tool
+
+            - being the rookie on the team, and getting your bearings, and ultimately contirbuting to the codebase
+
+        key utlity
+        - getting other peoples 
+        - contributing your own code
+
+commands:
+
+    git status - 
+
+        takes no actions; never hurts to run it!
+        can run this anywhere inside the git repo (not just at root)
+
+    git init
+
+        - only run once at beginning
+        - creates a new git repo locally
+
+    git add [options]
+
+        git add <filename>
+
+        - adds file(s) to staging
+
+    git commit -m "<commit msg>"
+
+
+terms
+==========
+
+    repository
+
+        - local 
+        - remote
+
+    root
+
+
+    staging 
+
+        move a file(s) into "green" from "red"
+    
+        track - whether or not to keep track of modification to a file
+        - only once do you have to track it
+
+    git credential manager (GCM)
+        - it's going to cache our username/password
+
+    git - version control, cli program
+     
+    github - a way to admin remote repos for sharing
